@@ -1,6 +1,6 @@
 # Sistema IoT de Monitorització de Qualitat de l’Aire
 
-Aquest projecte consisteix en el desenvolupament d’un sistema IoT basat en ESP32 i el sensor CCS811 per monitoritzar la qualitat de l’aire en temps real dins d’un complex esportiu.
+Aquest projecte consisteix en el desenvolupament d’un sistema IoT per monitoritzar la qualitat de l’aire en temps real dins d’un complex esportiu.
 
 Aquest projecte forma part d’una proposta de millora tecnològica per augmentar la seguretat, el confort i l’eficiència ambiental en instal·lacions esportives.
 
@@ -19,7 +19,6 @@ Raul Amores, Jan Leiva
 ## Objectius del projecte
 
 * Monitoritzar la qualitat de l’aire
-* Millorar el confort dels usuaris
 * Detectar nivells elevats de CO₂
 * Visualitzar dades en temps real
 * Introduir solucions IoT en espais esportius
@@ -27,7 +26,6 @@ Raul Amores, Jan Leiva
 ## Funcionalitats principals
 
 * Lectura de eCO2 i TVOC
-* Dashboard web en temps real
+* Panell web en temps real
 * Classificació de qualitat de l’aire
 * Connexió WiFi amb ESP32
-* Interfície visual responsive
